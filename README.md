@@ -5,7 +5,7 @@ A two-qubit Qiskit simulation of a particle tunnelling in a double well while ca
 H = ΔX₀ + (g/2)Z₀Z₁   (q0 = position, q1 = spin)
 
 Built at **Qiskit Fall Fest 2026 × |QET⟩, IIT Hyderabad** (Quantum Information & Computing track).
-Team: _add names here_
+Team: Qubit_Mahindra
 
 ## Results
 
